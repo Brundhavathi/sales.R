@@ -32,6 +32,11 @@ The **Random Forest model achieved a lower RMSE (Rooted Mean Square Error)**, in
 
 * **Language:** R
 * **Packages:** `readr`, `dplyr`, `janitor`, `ggplot2`, `caret`, `randomForest`, `Metrics`
+  
+## ggplots
+* **<img width="2100" height="2100" alt="ratings_histogram" src="https://github.com/user-attachments/assets/ba95e9d2-a758-4125-b6c9-bb1ba655a24e" />
+* **<img width="2100" height="2100" alt="rating_vs_rating_count" src="https://github.com/user-attachments/assets/26780731-f8b4-4711-8f66-80d052f20d77" />
+* **<img width="2100" height="2100" alt="rating_vs_discount" src="https://github.com/user-attachments/assets/85d0f688-bba0-4022-84da-834f0e319867" />
 
 ## How to Reproduce this Analysis
 
